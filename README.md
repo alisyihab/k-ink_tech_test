@@ -48,6 +48,12 @@ JWT_SECRET=supersecretkey
 go run seeder/paket/paket_seeder.go
 ```
 
+### 🌱 Jalankan Seeder User
+```bash
+go run seeder/user_seeder.go
+```
+
+
 ### ▶️ Jalankan Server
 ```bash
 go run cmd/main.go
