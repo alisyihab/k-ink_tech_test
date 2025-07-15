@@ -51,7 +51,7 @@ go run seeder/paket/paket_seeder.go
 
 ### ▶️ Jalankan Server
 ```bash
-go run main.go
+go run cmd/main.go
 ```
 
 Atau jika pakai air:
