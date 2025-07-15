@@ -38,7 +38,6 @@ go mod tidy
 Buat file `.env` di root `BE/`:
 
 ```env
-PORT=8080
 MONGODB_URI=mongodb://localhost:27017
 DB_NAME=registration_smart_reward
 JWT_SECRET=supersecretkey
@@ -59,7 +58,7 @@ Atau jika pakai air:
 air
 ```
 
-API akan berjalan di <http://localhost:8080>
+API akan berjalan di <http://localhost:8000>
 
 ---
 
