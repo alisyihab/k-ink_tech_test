@@ -90,6 +90,13 @@ Akses di browser:
 http://localhost:3000
 ```
 
+Login Route
+```
+http://localhost:3000/login
+```
+
+
+
 ---
 
 ## ✨ Fitur yang Tersedia
